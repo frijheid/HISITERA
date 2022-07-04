@@ -1,2 +1,3 @@
-# My First GUI Program
+# HISITERA
 Hydrograph calculation GUI program
+// My First GUI Program
